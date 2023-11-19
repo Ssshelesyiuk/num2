@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        User user = new User("user123", "Nubas", "Nubikov", 12);
+        User user = new User("user_55", "Witter", "Mukitter", 34);
         user.DisplayInfo();
 
         Console.ReadLine();
